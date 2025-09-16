@@ -1,4 +1,4 @@
-# R-MCP — Replicate MCP brain for creators (ChatGPT Instant/Mini-safe)
+# R-MCP
 
 ## GOALS
 - Run **any** Replicate model a user names (`owner/name`, `owner/name:version`, or raw version id).
